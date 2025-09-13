@@ -1,0 +1,19 @@
+1 Computer Engineering
+2 Software Engineering
+3 Aerospace Engineering
+4 Biomedical Engineering
+5 Theatre Arts
+6 Music
+7 English
+8 Political Science
+9 Nursing
+10 Kinesiology
+11 Accounting
+12 Information Systems
+13 Biology
+14 Chemistry
+15 Psychology
+16 Physics
+17 Architecture
+18 Interior Design
+19 Education
